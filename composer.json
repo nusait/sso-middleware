@@ -1,0 +1,28 @@
+{
+    "name": "nusait/sso-middleware",
+    "description": "A Laravel 5 middleware package for SSO",
+    "type": "Laravel",
+    "require": {
+      "illuminate/contracts": "~5.1.0",
+      "illuminate/support": "~5.1.0",
+      "nusait/nuldap": "~1.0"
+    },
+    "repositories": [
+      {
+        "url": "https://github.com/azamtav/nuldap.git",
+        "type": "git"
+      }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Nusait\\NuSSO\\": "src"
+      }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vahid Azamtarrahian",
+            "email": "v-azam@northwestern.edu"
+        }
+    ]
+}

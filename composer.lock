@@ -226,11 +226,11 @@
         },
         {
             "name": "nusait/nuldap",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/azamtav/nuldap.git",
-                "reference": "1df876c9869d7635a6a72cf067235fe0134244a7"
+                "reference": "2f43274d2ee74db20b72bc86048a917cbc293173"
             },
             "require": {
                 "php": ">=5.3.0"
@@ -247,7 +247,7 @@
                     "email": "hao@northwestern.edu"
                 }
             ],
-            "time": "2015-09-02 20:11:47"
+            "time": "2015-09-23 15:42:30"
         }
     ],
     "packages-dev": [],
